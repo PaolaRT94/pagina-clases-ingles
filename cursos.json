@@ -1,0 +1,27 @@
+[
+    {
+      "nivel": "Básico",
+      "modalidad": "Individual",
+      "duracion": "6 meses",
+      "precio": "$500.000 mensuales"
+    },
+    {
+      "nivel": "Intermedio",
+      "modalidad": "Grupal (máx 3 personas)",
+      "duracion": "6 meses",
+      "precio": "$400.000 mensuales"
+    },
+    {
+      "nivel": "Avanzado",
+      "modalidad": "Grupal (máx 3 personas)",
+      "duracion": "6 meses",
+      "precio": "$350.000 mensuales"
+    },
+    {
+      "nivel": "Preparación Exámenes",
+      "modalidad": "Individual",
+      "duracion": "4 semanas",
+      "precio": "$700.000"
+    }
+  ]
+  
